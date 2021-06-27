@@ -140,7 +140,7 @@ nav .menu-btn,
 
 @media(max-width:480px){
 .logo{
-	font-size : 1opx;
+	font-size : 10px;
 	align-items: flex-start;
 	}
 }
