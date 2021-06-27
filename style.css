@@ -137,3 +137,9 @@ nav .menu-btn,
             display:block;
         }
 }
+
+@media(max-width:480px){
+.logo{
+	font-size : 14px;
+	text-align : center;
+}
