@@ -139,7 +139,7 @@ nav .menu-btn,
 }
 
 @media(max-width:480px){
-a.logo{
+.logo{
 	font-size : 14px;
 	}
 }
