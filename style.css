@@ -138,3 +138,12 @@ nav .menu-btn,
         }
 }
 
+@media(max-width : 480px){
+.logo{
+	font-size : 10px;
+	font-weight : bold;
+	font-family : sans-serif;
+	text-align : left;
+}
+
+}
