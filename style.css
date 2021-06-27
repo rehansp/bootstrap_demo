@@ -141,5 +141,6 @@ nav .menu-btn,
 @media(max-width:480px){
 .logo{
 	font-size : 14px;
+	align-items: flex-start;
 	}
 }
