@@ -137,10 +137,3 @@ nav .menu-btn,
             display:block;
         }
 }
-
-@media(max-width:480px){
-.logo {
-	font-size: 3.0vw;
-	text-align: left;
-	}
-}
